@@ -1,6 +1,83 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
 .welcome {
   background-color: #ffffff;
   background-image: url("./pics/desktop_bg.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
+  height: 916px;
+  padding: 0 15%;
 }
+
+.welcome-h1 {
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 60px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.37px;
+  color: #091e42;
+}
+
+.welcome-p {
+  font-size: 20px;
+  line-height: 28px;
+  color: #344563;
+  width: 80%;
+}
+
+.welcome-small-p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+}
+/* -------------------------------------------------------------- */
+.resent-work {
+  background-color: #E5E5E5;
+  padding: 10% 10%;
+}
+
+.card-1 {
+  background-color: #fff;
+  padding: 2%;
+  margin-bottom: 10%;
+}
+
+.card-title {
+  font-weight: bold;
+font-size: 40px;
+line-height: 52px;
+color: #091E42;
+}
+
+.card-p {
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+}
+
+.card-sp {
+  font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+color: #344563;
+}
+
+.card-ul span {
+  background-color: #EBEBFF;
+  color: #6070FF;
+  font-weight: 500;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: 0.03em;
+}
+
+
+
+
+
+
+
+
