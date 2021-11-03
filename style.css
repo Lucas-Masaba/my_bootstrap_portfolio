@@ -74,6 +74,13 @@ line-height: 16px;
 letter-spacing: 0.03em;
 }
 
+.form_section{
+  background-image: url("./pics/contact.png");
+  background-color: #6070ff;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 846px;
+}
 
 
 
